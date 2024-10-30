@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "profile_picture": "https://example.com/photo.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "profile_picture": "https://example.com/photo2.jpg"
+    }
+  ]
+}
